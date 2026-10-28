@@ -1,0 +1,1 @@
+window.GHOSTGPT_API = '';
